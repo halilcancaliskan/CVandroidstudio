@@ -73,3 +73,6 @@ android {
         jvmToolchain(17)
     }
 }
+dependencies {
+    implementation("androidx.compose.ui:ui-android:1.5.4")
+}
