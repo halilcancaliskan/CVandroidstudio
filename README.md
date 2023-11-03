@@ -1,3 +1,7 @@
+SCREENSHOT :
+
+![screenshot](https://github.com/halilcancaliskan/CVandroidstudio/assets/61836866/ec9a075f-6c24-4dae-b263-dd81ab721521)
+
 [![official project](http://jb.gg/badges/official.svg)](https://confluence.jetbrains.com/display/ALL/JetBrains+on+GitHub)
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 # [Compose Multiplatform](https://github.com/JetBrains/compose-multiplatform) application
