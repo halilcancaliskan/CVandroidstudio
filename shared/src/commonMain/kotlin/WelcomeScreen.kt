@@ -40,8 +40,8 @@ internal fun welcomeScreen() {
                 horizontalAlignment = Alignment.CenterHorizontally
             ) {
                 Image(
-                    painterResource("compose-multiplatform.xml"),
-                    contentDescription = "Compose Multiplatform icon"
+                    painter = painterResource("profil.jpg"), // Charger l'image "profil.jpg"
+                    contentDescription = "Profil Image"
                 )
 
                 Spacer(modifier = Modifier.height(8.dp))
